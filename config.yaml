@@ -1,0 +1,8 @@
+observer:
+  longitude: "114.1726" #经度
+  latitude: "22.6495" #纬度
+  elevation: 100 #海拔
+  pressure: 0 #压强
+
+stars:
+  - {"name": "M1", "Ra": "05:34:31.97", "Dec": "22:00:52.1"}
